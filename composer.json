@@ -1,0 +1,17 @@
+{
+    "name": "emmanuelsw/daemon-php",
+    "type": "project",
+    "description": "Estructura enriquecida para crear apps en PHP",
+    "keywords": ["framework", "php", "estructura", "crud", "applicación"],
+    "homepage": "https://github.com/emmanuelsw/daemon-php",
+    "license": "GNU General Public License",
+    "authors": [
+        {
+            "name": "EmmanuelSW",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
