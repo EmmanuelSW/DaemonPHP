@@ -72,6 +72,3 @@ public function ejemplo()
     require APP . 'views/_templates/footer.php';
 }
 ```  
-
-###### Creado por: EmmanuelSW
-###### Facebook: [https://facebook.com/emmanuelsw](https://facebook.com/emmanuelsw)
